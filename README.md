@@ -1,0 +1,1 @@
+# Verilog_resign_example Verilog HDL高级数字设计书中例子代码
